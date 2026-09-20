@@ -1,6 +1,6 @@
-# VAP OS Publisher - Privacy Policy & Compliance
+# Vird Auto-Pilot - Privacy Policy & Compliance
 
-This repository hosts the official Privacy Policy, User Data Deletion Instructions, and Terms of Service for **VAP OS Publisher** (Meta App ID: `3292835964437949`), optimized for **GitHub Pages**.
+This repository hosts the official Privacy Policy, User Data Deletion Instructions, and Terms of Service for **Vird Auto-Pilot** (Meta App ID: `3292835964437949`), optimized for **GitHub Pages**.
 
 ---
 
